@@ -1,0 +1,1 @@
+// No contact form functionality. Backend and form removed as per user request. 
